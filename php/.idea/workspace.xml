@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f51dd04-2c24-4ef0-8479-74c154531560" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/tp/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/tp/vendor/topthink/think-trace" />
+      <path value="$PROJECT_DIR$/tp/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/tp/vendor/topthink/think-orm" />
+      <path value="$PROJECT_DIR$/tp/vendor/topthink/framework" />
+      <path value="$PROJECT_DIR$/tp/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/tp/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/tp/vendor/league/flysystem-cached-adapter" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/tp/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/tp/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/tp/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1bnWtPbC6g5yM1HLfbUyucKxSun" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="add.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WWW/tp5/application/admin/view/cate/add.htm" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.add.htm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f51dd04-2c24-4ef0-8479-74c154531560" name="Default Changelist" comment="" />
+      <created>1589268551964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589268551964</updated>
+      <workItem from="1589268555066" duration="2066000" />
+      <workItem from="1589270877179" duration="1788000" />
+      <workItem from="1589274468053" duration="1507000" />
+      <workItem from="1589276746928" duration="1851000" />
+      <workItem from="1589279352067" duration="18000" />
+      <workItem from="1589279452543" duration="34000" />
+      <workItem from="1589279693158" duration="72000" />
+      <workItem from="1589280057670" duration="4538000" />
+      <workItem from="1589334384362" duration="13000" />
+      <workItem from="1589334450027" duration="7636000" />
+      <workItem from="1589347965790" duration="11000" />
+      <workItem from="1589348150612" duration="33130000" />
+      <workItem from="1589451797725" duration="1787000" />
+      <workItem from="1589453787105" duration="630000" />
+      <workItem from="1589457080047" duration="1856000" />
+      <workItem from="1589458998674" duration="69000" />
+      <workItem from="1589459238599" duration="11814000" />
+      <workItem from="1589507433685" duration="4526000" />
+      <workItem from="1589688014335" duration="3233000" />
+      <workItem from="1589841521221" duration="1235000" />
+      <workItem from="1590756410954" duration="1630000" />
+      <workItem from="1590928918465" duration="4280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/tp/app/controller/Text6.php</url>
+          <line>13</line>
+          <properties>
+            <option name="className" value="\app\controller\Text6" />
+            <option name="methodName" value="select2" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
